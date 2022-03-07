@@ -1,2 +1,2 @@
 # JavaScript
-Making a JS repo because to learn front end development
+Making a JS repo as learning front end
